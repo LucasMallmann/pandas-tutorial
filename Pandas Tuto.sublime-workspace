@@ -1,0 +1,615 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"HPI",
+				"HPI\tstatement"
+			],
+			[
+				"mor",
+				"mortgage_30y"
+			],
+			[
+				"data",
+				"data_frame_std\tstatement"
+			],
+			[
+				"veri",
+				"verificar_por_std\tfunction"
+			],
+			[
+				"rolling",
+				"rolling_corr\tfunction"
+			],
+			[
+				"ax",
+				"ax1\tstatement"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"fil",
+				"fill_nans\tfunction"
+			],
+			[
+				"DELE",
+				"delete_all_nans\tfunction"
+			],
+			[
+				"dele",
+				"delete_nans\tfunction"
+			],
+			[
+				"state",
+				"state_list\tstatement"
+			],
+			[
+				"em",
+				"empty\tfunction"
+			],
+			[
+				"main",
+				"main_df\tstatement"
+			],
+			[
+				"su",
+				"subplot2grid\tfunction"
+			],
+			[
+				"HP",
+				"HPI_data\tstatement"
+			],
+			[
+				"qu",
+				"query\tstatement"
+			],
+			[
+				"df",
+				"df3"
+			],
+			[
+				"join",
+				"joined\tstatement"
+			],
+			[
+				"sta",
+				"stats\tstatement"
+			],
+			[
+				"fi",
+				"fiddy_states\tstatement"
+			],
+			[
+				"e",
+				"executable\tinstance"
+			],
+			[
+				"m",
+				"median\tfunction"
+			],
+			[
+				"f",
+				"fore\tfor (each)"
+			],
+			[
+				"no",
+				"notas\tstatement"
+			],
+			[
+				"p",
+				"process\tmodule"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"by",
+				"bytesconverter\tfunction"
+			],
+			[
+				"str",
+				"strconverter"
+			],
+			[
+				"cl",
+				"closep"
+			],
+			[
+				"sto",
+				"stock_data"
+			],
+			[
+				"spli",
+				"split_line\tstatement"
+			],
+			[
+				"split",
+				"split_source\tstatement"
+			],
+			[
+				"form",
+				"format\tfunction"
+			],
+			[
+				"pub",
+				"public"
+			],
+			[
+				"de",
+				"delattr\tfunction"
+			],
+			[
+				"tim",
+				"timeit\tfunction"
+			],
+			[
+				"pyp",
+				"pyplot\tmodule"
+			],
+			[
+				"mat",
+				"matplotlib\tmodule"
+			],
+			[
+				"pl",
+				"plt"
+			],
+			[
+				"x",
+				"xrange"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Python3.6Anaconda.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Anaconda Python Builder",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python3.6Anaconda.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Python3.6Anaconda.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 148.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"Package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"marckd",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"marck",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"package control inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package control list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"lis",
+				"Set Syntax: Lisp"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"package control l",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/Scripts/13 - Joining 30 year mortgage rate.py",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/Scripts/10 - Handling Missing Data.py",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/Scripts/teste.py",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/Scripts/9 - Resampling.py",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/Scripts/14 - Adding other economic indicators.py",
+		"/C/Users/Lucas Mallmann/Documents/Materialize Projects/Login/materialize/slide.html",
+		"/C/Users/Lucas Mallmann/Documents/Materialize Projects/Tutorial/div_example.html",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/Scripts/12 - Applying Comparison Operators to DataFrame.py",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/Scripts/11 - Rolling statistics_mean_std.py",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/Scripts/11.1 - Rolling_statistcs_correlation.py",
+		"/C/Users/Lucas Mallmann/Documents/Materialize Projects/Tutorial/materialize/css/materialize.css",
+		"/C/Users/Lucas Mallmann/Documents/Materialize Projects/Tutorial/materialize/grid_example.html",
+		"/C/Users/Lucas Mallmann/Documents/Materialize Projects/Tutorial/materialize/grid_example2.html",
+		"/C/Users/Lucas Mallmann/Documents/Materialize Projects/Tutorial/materialize/helpers.html",
+		"/C/Users/Lucas Mallmann/Documents/Materialize Projects/Tutorial/materialize/example.html",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/example.html",
+		"/C/Users/Lucas Mallmann/Documents/Materialize Projects/Login/login.css",
+		"/C/Users/Lucas Mallmann/Documents/Materialize Projects/Login/login_youtube.css",
+		"/C/Users/Lucas Mallmann/Documents/Materialize Projects/Login/login_youtube.html",
+		"/C/Users/Lucas Mallmann/Documents/Materialize Projects/Login/div_example.html",
+		"/C/Users/Lucas Mallmann/Documents/Materialize Projects/Login/index.html",
+		"/C/Users/Lucas Mallmann/Documents/Visual Studio 2017/WebSites/Nice Photo/materialize/css/login.css",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/Scripts/11 - Rolling statistics.py",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/Scripts/8 - Percent Change and Correlation Tables.py",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/9 - # fig = plt.figure().py",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/Scripts/7 - Pickling.py",
+		"/C/Users/Lucas Mallmann/AppData/Roaming/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/Lucas Mallmann/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/Lucas Mallmann/Anaconda3/lib/site-packages/requests/packages/urllib3/contrib/pyopenssl.py",
+		"/C/Users/Lucas Mallmann/Anaconda3/lib/site-packages/OpenSSL/SSL.py",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/Scripts/6.1 - Merging and Join.1 - Merging and Join.py",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/Scripts/6 - Joining and Merging Dataframes.py",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/Scripts/4 - Building DataSets.py",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/6.1 - Merging and Join",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/as.py",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/Pandas Tuto.sublime-project",
+		"/C/Users/Lucas Mallmann/Desktop/script.sql",
+		"/C/Users/Lucas Mallmann/Documents/Materialize Projects/Tutorial/materialize/css/custom.css",
+		"/C/Users/Lucas Mallmann/Documents/Materialize Projects/Tutorial/materialize/index.html",
+		"/C/Users/Lucas Mallmann/Desktop/QUANDL API KEY.txt",
+		"/C/Users/Lucas Mallmann/Documents/NetBeansProjects/Rede_Social/src/telaprincipal/TelaPrincipalController.java",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/Scripts/Concatenating and Appending dataframes.py",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Pandas Tutorial/Scripts/1 Sample.py",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Tutorial OpenCV/OpenCv.sublime-project",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Primeiro Projeto/mediana.py",
+		"/C/Users/Lucas Mallmann/Documents/NetBeansProjects/Rede_Social/src/telaperfil/TelaPerfilController.java",
+		"/C/Users/Lucas Mallmann/Documents/NetBeansProjects/Rede_Social/src/telaprincipal/ScrollPesquisaController.java",
+		"/C/Users/Lucas Mallmann/Documents/NetBeansProjects/TestandoPub/src/chrys/ListaPublication.java",
+		"/C/Users/Lucas Mallmann/Desktop/teste.java",
+		"/C/Users/Lucas Mallmann/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Lucas Mallmann/Documents/NetBeansProjects/TestandoPub/src/controller/TelaPubController.java",
+		"/C/Users/Lucas Mallmann/Documents/Python Projects/Primeiro Projeto/third.py",
+		"/C/Users/Lucas Mallmann/Python Projects/Tutorial OpenCV/Tuto2 - Gravar Vídeo.py",
+		"/C/Users/Lucas Mallmann/Python Projects/Primeiro Projeto/primeiroProjeto.sublime-project",
+		"/C/Users/Lucas Mallmann/Python Projects/Primeiro Projeto/List Comprehensiono.py",
+		"/C/Users/Lucas Mallmann/Python Projects/Primeiro Projeto/yield teste.py",
+		"/C/Users/Lucas Mallmann/Desktop/e.java",
+		"/C/Users/Lucas Mallmann/Python Projects/Primeiro Projeto/h.java",
+		"/C/Users/Lucas Mallmann/Desktop/s.xml",
+		"/C/Users/Lucas Mallmann/Python Projects/Primeiro Projeto/third.py",
+		"/C/Users/Lucas Mallmann/Python Projects/Primeiro Projeto/enumerate and dicts.py",
+		"/C/Users/Lucas Mallmann/Python Projects/Primeiro Projeto/process.py",
+		"/C/Users/Lucas Mallmann/Python Projects/Primeiro Projeto/mediana.py",
+		"/C/Users/Lucas Mallmann/Desktop/Proj Python/yield teste.py",
+		"/C/Users/Lucas Mallmann/Desktop/Proj Python/enumerate and dicts.py",
+		"/C/Users/Lucas Mallmann/Desktop/recusrive.py",
+		"/C/Users/Lucas Mallmann/Desktop/Proj Python/second.py",
+		"/C/Users/Lucas Mallmann/Desktop/Proj Python/teste.py",
+		"/C/Users/Lucas Mallmann/Desktop/Proj Python/primeiroProjeto.sublime-project",
+		"/C/Users/Lucas Mallmann/Desktop/Proj Python/third.py",
+		"/C/Users/Lucas Mallmann/Desktop/p.java",
+		"/C/Users/Lucas Mallmann/Desktop/Proj Python/List Comprehensiono.py",
+		"/C/Users/Lucas Mallmann/Desktop/Proj Python/zip function.py",
+		"/C/Users/Lucas Mallmann/Desktop/seila.java",
+		"/C/Users/Lucas Mallmann/Desktop/Proj Python/fifthy.py",
+		"/C/Users/Lucas Mallmann/Downloads/trampo/materialize/js/jquery-1.10.2.js",
+		"/C/Users/Lucas Mallmann/Downloads/umprojeto (1).sublime-project",
+		"/C/Users/Lucas Mallmann/Desktop/Proj Python/fourth.py",
+		"/C/Users/Lucas Mallmann/Desktop/Proj Python/first.py",
+		"/C/Users/Lucas Mallmann/Desktop/lista.py",
+		"/C/Users/Lucas Mallmann/Desktop/hello.py",
+		"/C/Users/Lucas Mallmann/Downloads/umprojeto.sublime-project",
+		"/C/Users/Lucas Mallmann/Desktop/Python Proj.sublime-workspace",
+		"/C/Users/Lucas Mallmann/Documents/BackEnd Nice Photo/nicephoto/Package/ListaUsuario.java",
+		"/C/Users/Lucas Mallmann/Documents/BackEnd Nice Photo/nicephoto/Package/Usuario.java",
+		"/C/Users/Lucas Mallmann/Documents/Nice Photo/Rede_Social/Rede_Social/src/telacadastro/CadastroController.java",
+		"/C/Users/Lucas Mallmann/Documents/BackEnd Nice Photo/nicephoto/Package/Publication.java",
+		"/C/Users/Lucas Mallmann/Documents/BackEnd Nice Photo/nicephoto/Package/ListaPublication.java",
+		"/C/Users/Lucas Mallmann/Documents/Wender/Rede_Social/src/telacadastro/CadastroController.java",
+		"/C/Users/Lucas Mallmann/Documents/Wender/Rede_Social/src/telacadastro/Validation.java",
+		"/C/Users/Lucas Mallmann/Documents/Nice Photo/Rede_Social/Rede_Social/src/telalogin/LoginApplication.css",
+		"/C/Users/Lucas Mallmann/Documents/Nice Photo/Rede_Social/Rede_Social/src/telacadastro/CadastroApplication.css",
+		"/C/Users/Lucas Mallmann/Desktop/teste.py",
+		"/C/Users/Lucas Mallmann/AppData/Roaming/Sublime Text 3/Packages/User/Python3.6Anaconda.sublime-build",
+		"/C/Users/Lucas Mallmann/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Lucas Mallmann/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Lucas Mallmann/Desktop/prog.py",
+		"/C/Users/Lucas Mallmann/Desktop/hey.c",
+		"/C/Users/Lucas Mallmann/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Lucas Mallmann/AppData/Roaming/Sublime Text 3/Packages/User/AdvancedNewFile.sublime-settings",
+		"/C/Users/Lucas Mallmann/Desktop/ftpsync.settings",
+		"/C/Users/Lucas Mallmann/AppData/Roaming/Sublime Text 3/Packages/User/HTML (Django).sublime-settings",
+		"/C/Users/Lucas Mallmann/AppData/Roaming/Sublime Text 3/Packages/Anaconda/README.md",
+		"/C/Users/Lucas Mallmann/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/Lucas Mallmann/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 97.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ffill",
+			"88"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 195.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Anaconda Python Builder",
+	"project": "Pandas Tuto.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Lucas Mallmann\\Documents\\BackEnd Nice Photo\\nicephoto\\Package\\Usuario.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

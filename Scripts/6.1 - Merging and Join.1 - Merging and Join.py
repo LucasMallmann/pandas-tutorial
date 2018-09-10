@@ -1,0 +1,25 @@
+import pandas as pd
+
+df1 = pd.DataFrame({'Year': [2001, 2002, 2003, 2004],
+                    'Int_rate': [2, 3, 2, 2],
+                    'US_GDP_Thousands': [50, 55, 65, 55]})
+
+df3 = pd.DataFrame({'Year': [2001, 2003, 2004, 2005],
+                    'Unemployment': [7, 8, 9, 6],
+                    'Low_tier_HPI': [50, 52, 50, 53]})
+
+
+# vai pegar somente os que tem em comum...
+merged = pd.merge(df1, df3, on='Year', how='outer')
+
+# merged = pd.merge(df1, df3, on='Year', how='right')
+# merged = pd.merge(df1, df3, on='Year', how='left')
+# merged = pd.merge(df1, df3, on='Year', how='right')
+# merged = pd.merge(df1, df3, on='Year', how='inner')
+
+# right, left...
+# outer = pega todos os valores...TODOS
+# inner -> Padrão... que pega somente os que interseptam
+
+merged.set_index('Year', inplace=True)
+print(merged)
